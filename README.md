@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```js
-Me {
+let me {
   name: "Peyman",
   Devaloper: "FrontEnt",
   age: 20,
